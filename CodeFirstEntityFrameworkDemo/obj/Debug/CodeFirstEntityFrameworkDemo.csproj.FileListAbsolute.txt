@@ -1,0 +1,13 @@
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\bin\Debug\CodeFirstEntityFrameworkDemo.exe.config
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\bin\Debug\CodeFirstEntityFrameworkDemo.exe
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\bin\Debug\CodeFirstEntityFrameworkDemo.pdb
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\bin\Debug\EntityFramework.dll
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\bin\Debug\EntityFramework.xml
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\obj\Debug\CodeFirstEntityFrameworkDemo.exe
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\obj\Debug\CodeFirstEntityFrameworkDemo.pdb
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\obj\Debug\CodeFirstEntityFrameworkDemo.csprojResolveAssemblyReference.cache
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\obj\Debug\CodeFirstEntityFrameworkDemo.Migrations.createtables.resources
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\obj\Debug\CodeFirstEntityFrameworkDemo.csproj.GenerateResource.Cache
+D:\sqlite Demo\CodeFirstEntityFrameworkDemo\CodeFirstEntityFrameworkDemo\obj\Debug\CodeFirstEntityFrameworkDemo.Migrations.newdep.resources
